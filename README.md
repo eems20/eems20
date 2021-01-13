@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**eems20/eems20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Erving Sosa, a software engineer at American Express. My current interests are in full-stack development and front-end development. Beside's programming, I enjoy cooking and hiking.
+
+Talking about Personal Stuffs:
+
+    🌱 I’m currently learning GO;
+    💬 Ask me about anything, I am happy to help;
+    📫 How to reach me: @eems20;
+    📝 
+
+Languages and Tools:
+
+
