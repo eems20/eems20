@@ -18,6 +18,9 @@ Hi, I'm Erving Sosa, a software engineer at American Express. My current interes
 - 📫 How to reach me: [@Linkedin](https://www.linkedin.com/in/emsosa/);
 <!-- 📝 [Resume]()  -->
 
+<h2>💻 Some Personal Stats 💻</h2>
+<img alt="Erving's github stats" src="https://github-readme-stats.vercel.app/api?username=eems20&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" ></img>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
